@@ -1,0 +1,52 @@
+%
+% @online{BergmannHerzogJasa:2024:1,
+  % = bibtex_show,
+}= {true},
+%   AUTHOR = {Bergmann, Ronny and Herzog, Roland and Jasa, Hajg},
+%   DATE = {2024-02},
+%   EPRINT = {2402.13670},
+%   EPRINTTYPE = {arXiv},
+%   SCOOPINCLUDE = {yes},
+%   TITLE = {The Riemannian convex bundle method},
+% }
+% @software{BergmannJasa:2025:17277311,
+  % = bibtex_show,
+}= {true},
+%   author = {Bergmann, Ronny and Jasa, Hajg},
+%   title = {ManoptExamples.jl},
+%   month = oct,
+%   year = 2025,
+%   publisher = {Zenodo},
+%   version = {v0.1.16},
+%   doi = {10.5281/zenodo.17277311},
+% }
+% @online{BergmannJasaJohnPfeffer:2025:1,
+  % = bibtex_show,
+}= {true},
+%   AUTHOR = {Bergmann, R. and Jasa, H. and John, P. and Pfeffer, M.},
+%   EPRINT = {2506.09775},
+%   EPRINTTYPE = {arxiv},
+%   TITLE = {The Intrinsic Riemannian Proximal Gradient Method for Nonconvex
+%            Optimization},
+%   YEAR = {2025},
+% }
+% @online{BergmannJasaJohnPfeffer:2025:2,
+  % = bibtex_show,
+}= {true},
+%   AUTHOR = {Bergmann, R. and Jasa, H. and John, P. and Pfeffer, M.},
+%   EPRINT = {2507.16055},
+%   EPRINTTYPE = {arxiv},
+%   TITLE = {The Intrinsic Riemannian Proximal Gradient Method for Convex
+%            Optimization},
+%   YEAR = {2025},
+% }
+% @misc{AthreyaBergmannJasaKummerleLubberts:2025:1,
+  % = bibtex_show,
+}= {true},
+%   AUTHOR = {Jasa, Hajg and Bergmann, Ronny and K\"ummerle, Christian and Athreya
+%             , Avanti and Lubberts, Zachary},
+%   TITLE = {Procrustes Problems on Random Matrices},
+%   YEAR = {2025},
+%   eprint = {2510.05182},
+%   archivePrefix = {arXiv},
+% }
