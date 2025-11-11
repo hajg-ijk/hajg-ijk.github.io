@@ -1,115 +1,118 @@
 ---
 ---
-
-@string{aps = {American Physical Society,}}
-
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
+@online{BergmannHerzogJasa:2024:1,
+  bibtex_show = {true},
+  author = {Bergmann, Ronny and Herzog, Roland and Jasa, Hajg},
+  abstract = {We introduce the convex bundle method to solve convex, non-smooth
+              optimization problems on Riemannian manifolds of bounded sectional
+              curvature. Each step of our method is based on a model that
+              involves the convex hull of previously collected subgradients,
+              parallelly transported into the current serious iterate. This
+              approach generalizes the dual form of classical bundle subproblems
+              in Euclidean space. We prove that, under mild conditions, the
+              convex bundle method converges to a minimizer. Several numerical
+              examples implemented using Manopt.jl illustrate the performance of
+              the proposed method and compare it to the subgradient method, the
+              cyclic proximal point algorithm, as well as the proximal bundle
+              method.},
+  month = {feb},
+  year = {2024},
+  arxiv = {2402.13670},
+  title = {The Riemannian Convex Bundle Method},
+  preview = {hn-wave-noise.png},
+  abbr = {arXiv},
+  google_scholar_id = {u5HHmVD_uO8C},
 }
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@online{AthreyaBergmannJasaKummerleLubberts:2025:1,
+  bibtex_show = {true},
+  author = {Jasa, Hajg and Bergmann, Ronny and K\"ummerle, Christian and Athreya
+            , Avanti and Lubberts, Zachary},
+  abstract = {Meaningful comparison between sets of observations often
+              necessitates alignment or registration between them, and the
+              resulting optimization problems range in complexity from those
+              admitting simple closed-form solutions to those requiring advanced
+              and novel techniques. We compare different Procrustes problems in
+              which we align two sets of points after various perturbations by
+              minimizing the norm of the difference between one matrix and an
+              orthogonal transformation of the other. The minimization problem
+              depends significantly on the choice of matrix norm; we highlight
+              recent developments in nonsmooth Riemannian optimization and
+              characterize which choices of norm work best for each perturbation.
+              We show that in several applications, from low-dimensional
+              alignments to hypothesis testing for random networks, when
+              Procrustes alignment with the spectral or robust norm is the
+              appropriate choice, it is often feasible to replace the
+              computationally more expensive spectral and robust minimizers with
+              their closed-form Frobenius-norm counterpart. Our work reinforces
+              the synergy between optimization, geometry, and statistics.},
+  title = {Procrustes Problems on Random Matrices},
+  month = {oct},
+  year = {2025},
+  arxiv = {2510.05182},
+  preview = {procrustes.png},
+  abbr = {arXiv},
+  google_scholar_id = {9yKSN-GCB0IC},
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@software{BergmannJasa:2025:17277311,
+  bibtex_show = {true},
+  author = {Bergmann, Ronny and Jasa, Hajg},
+  title = {ManoptExamples.jl},
+  month = {oct},
+  year = {2025},
+  publisher = {Zenodo},
+  version = {v0.1.16},
+  doi = {10.5281/zenodo.17277311},
+  abbr = {Zenodo},
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  location={New Jersey},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  google_scholar_id={qyhmnyLat1gC},
-  video={https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info={. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation={* Example use of superscripts<br>† Albert Einstein},
-  selected={true},
-  inspirehep_id = {3255}
+@online{BergmansnJasaJohnPfeffer:2025:2,
+  bibtex_show = {true},
+  author = {Bergmann, Ronny and Jasa, Hajg and John, Paula and Pfeffer, Max},
+  arxiv = {2507.16055},
+  title = {The Intrinsic Riemannian Proximal Gradient Method for Convex
+           Optimization},
+  abstract = {We consider a class of (possibly strongly) geodesically convex
+              optimization problems on Hadamard manifolds, where the objective
+              function splits into the sum of a smooth and a possibly nonsmooth
+              function. We introduce an intrinsic convex Riemannian proximal
+              gradient (CRPG) method that employs the manifold proximal map for
+              the nonsmooth step, without operating in the embedding or tangent
+              space. A sublinear convergence rate for convex problems and a
+              linear convergence rate for strongly convex problems is established
+              , and we derive fundamental proximal gradient inequalities that
+              generalize the Euclidean case. Our numerical experiments on
+              hyperbolic spaces and manifolds of symmetric positive definite
+              matrices demonstrate substantial computational advantages over
+              existing methods.},
+  month = {jul},
+  year = {2025},
+  preview = {crpg.png},
+  abbr = {arXiv},
+  google_scholar_id = {d1gkVwhDpl0C},
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@online{BergmannJasaJohnPfeffer:2025:1,
+  bibtex_show = {true},
+  author = {Bergmann, Ronny and Jasa, Hajg and John, Paula and Pfeffer, Max},
+  arxiv = {2506.09775},
+  title = {The Intrinsic Riemannian Proximal Gradient Method for Nonconvex
+           Optimization},
+  abstract = {We consider the proximal gradient method on Riemannian manifolds
+              for functions that are possibly not geodesically convex. Starting
+              from the forward-backward-splitting, we define an intrinsic variant
+              of the proximal gradient method that uses proximal maps defined on
+              the manifold and therefore does not require or work in the
+              embedding. We investigate its convergence properties and illustrate
+              its numerical performance, particularly for nonconvex or
+              nonembedded problems that are hence out of reach for other methods.
+              },
+  month = {jun},
+  year = {2025},
+  preview = {ncrpg.png},
+  abbr = {arXiv},
+  google_scholar_id = {u-x6o8ySG0sC},
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@Article{einstein1905photoelectriceffect,
-  bibtex_show={true},
-  abbr={Ann. Phys.},
-  title="{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}",
-  author={Albert Einstein},
-  abstract={This is the abstract text.},
-  journal={Ann. Phys.},
-  volume={322},
-  number={6},
-  pages={132--148},
-  year={1905},
-  doi={10.1002/andp.19053220607},
-  award={Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name={Nobel Prize}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif},
-  abbr={Vision}
-}

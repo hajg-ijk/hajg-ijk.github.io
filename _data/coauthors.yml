@@ -1,34 +1,28 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"athreya":
+  - firstname: ["Avanti"]
+    url: https://engineering.jhu.edu/faculty/avanti-athreya/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"bergmann":
+  - firstname: ["Ronny"]
+    url: https://ronnybergmann.net
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"herzog":
+  - firstname: ["Roland"]
+    url: https://scoop.iwr.uni-heidelberg.de/team/rherzog
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"john":
+  - firstname: ["Paula"]
+    url: https://scholar.google.com/citations?hl=en&user=MAGFi6AAAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"kummerle":
+  - firstname: ["Christian"]
+    url: https://sciences.ucf.edu/math/person/christian-kummerle/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"lubberts":
+  - firstname: ["Zachary"]
+    url: https://sites.google.com/view/zachary-lubberts
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
+"pfeffer":
   - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+    url: https://sites.google.com/view/maxpfeffer/home
+
