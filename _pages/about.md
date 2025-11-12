@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computational Riemannian geometry
+subtitle: Riemannian optimization and applications
 
 profile:
   align: right
   image: pro_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>1044</p>
+    <p>Office 1044, Sentralbygg 2</p>
     <p>Alfred Getz' vei 1</p>
-    <p>Trondheim, Norway 7034</p>
+    <p>7034 Trondheim, Norway</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

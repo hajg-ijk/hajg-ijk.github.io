@@ -57,6 +57,24 @@
       ]
     },
     {
+      "institution": "Georg August University of Göttingen",
+      "location": "Göttingen, Germany",
+      "url": "https://www.uni-goettingen.de/en/about+us/86224.html",
+      "studyType": "Research visit",
+      "startDate": "2024-12-09",
+      "endDate": "2024-12-20",
+      "summary": "Visiting researcher at the Institute for Numerical and Applied Mathematics. Research collaboration on intrinsic Riemannian proximal gradient algorithms with B.Sc. Paula John and Prof. Max Pfeffer."
+    },
+    {
+      "institution": "Heidelberg University",
+      "location": "Heidelberg, Germany",
+      "url": "https://scoop.iwr.uni-heidelberg.de/",
+      "studyType": "Research visit",
+      "startDate": "2023-09-04",
+      "endDate": "2023-12-20",
+      "summary": "Visiting researcher at the Scientific Computing and Optimization group in the Interdisciplinary Center for Scientific Computing (IWR). Research collaboration on “The Riemannian Convex Bundle Method” with Prof. Roland Herzog."
+    },
+    {
       "institution": "University of Milano-Bicocca",
       "location": "Milan, Italy",
       "url": "https://www.unimib.it/",
@@ -93,7 +111,7 @@
       "url": "",
       "summary": "",
       "highlights": [
-        "Optimizaion Methods and Software"
+        "Optimization Methods and Software"
       ]
     }
   ],
@@ -147,24 +165,6 @@
       "language": "Armenian",
       "fluency": "A2",
       "icon": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor Ronny Bergmann",
-      "icon": "fa-solid fa-laptop"
-    },
-    {
-      "name": "Professor Roland Herzog",
-      "icon": "fa-solid fa-thumbtack"
-    },
-    {
-      "name": "Professor Max Pfeffer",
-      "icon": "fa-solid fa-thumbtack"
-    },
-    {
-      "name": "Professor Brynjulf Owren",
-      "icon": "fa-solid fa-thumbtack"
     }
   ],
   "certificates": [

@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description: Here you can find the courses I have been a Teaching Assistant for.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<!-- _pages/teaching.md -->
 
-Organize your courses by years, topics, or universities, however you like!
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography -f teaching %}
+
+</div>
