@@ -1,3 +1,7 @@
 "arXiv":
   color: "#b31b1b"
   url: https://arxiv.org
+
+"Zenodo":
+  color: "#0076df"
+  url: https://zeondo.org
