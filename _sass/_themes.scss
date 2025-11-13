@@ -238,8 +238,8 @@
 html[data-theme="dark"] {
   --global-bg-color: #{$bg_dark};
   --global-code-bg-color: #{$code-bg-color-dark};
-  --global-text-color: #BD93F9;//b9a1de;
-  --global-text-color-light: #BD93F9;//b9a1de;
+  --global-text-color: #{$white-color};//#BD93F9;//b9a1de;
+  --global-text-color-light: #{$white-color};//#BD93F9;//b9a1de;
   --global-theme-color: #{$cyan};
   --global-hover-color: #{$cyan};
   --global-hover-text-color: #{$white-color};
