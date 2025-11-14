@@ -83,21 +83,21 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/hajg-ijk# your GitHub user name", "_blank");
+          window.open("https://github.com/hajg-ijk", "_blank");
         },
       },{
         id: 'social-gitlab',
         title: 'GitLab',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/hajg_ijk# your GitLab user name", "_blank");
+          window.open("https://gitlab.com/hajg_ijk", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/hajgjasa# your LinkedIn user name", "_blank");
+          window.open("https://www.linkedin.com/in/hajgjasa", "_blank");
         },
       },{
         id: 'social-orcid',
@@ -119,6 +119,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=VLVCZD4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.ntnu.edu/employees/hajg.jasa", "_blank");
         },
       },{
         id: 'social-custom_social',
