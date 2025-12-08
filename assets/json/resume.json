@@ -1,27 +1,4 @@
 {
-  "basics": {
-    "name": "Hajg Jasa",
-    "label": "Ph.D. Candidate",
-    "image": "",
-    "email": "hajg.jasa@ntnu.no",
-    "phone": "",
-    "url": "https://hajg-ijk.github.io/",
-    "summary": "",
-    "location": {
-      "address": "Alfred Getz' vei 1",
-      "postalCode": "CA 94115",
-      "city": "Trondheim",
-      "countryCode": "NO",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "HajgJasa",
-        "url": "https://www.linkedin.com/in/hajgjasa/"
-      }
-    ]
-  },
   "work": [
     {
       "name": "Norwegian University of Science and Technology",

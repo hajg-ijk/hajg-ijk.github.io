@@ -29,3 +29,5 @@ latest_posts:
 
 I am a Ph.D. candidate in mathematics at the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at [NTNU](https://www.ntnu.no) developing and analyzing algorithms for convex (and sometimes nonconvex) nonsmooth optimization problems on Riemannian manifolds.
 Emerging research interests include variational analysis on Riemannian manifolds, applications to robotics motion planning, and geometric optimization methods for physics-informed computational problems.
+
+Email: **hajg (dot) jasa (at) ntnu (dot) no**
