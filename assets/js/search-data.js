@@ -49,7 +49,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-i-successfully-defended-my-ph-d-thesis-titled-algorithms-for-nonsmooth-optimization-on-riemannian-manifolds-and-applications-smile",
+          title: 'I successfully defended my Ph.D. thesis titled “Algorithms for Nonsmooth Optimization on Riemannian...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
