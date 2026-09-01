@@ -52,6 +52,9 @@ ninja.data = [{
             },},{id: "news-i-successfully-defended-my-ph-d-thesis-titled-algorithms-for-nonsmooth-optimization-on-riemannian-manifolds-and-applications-smile",
           title: 'I successfully defended my Ph.D. thesis titled “Algorithms for Nonsmooth Optimization on Riemannian...',
           description: "",
+          section: "News",},{id: "news-today-s-my-first-day-as-a-postdoc-at-simula-smile",
+          title: 'Today’s my first day as a postdoc at Simula! :smile:',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
