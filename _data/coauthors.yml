@@ -6,6 +6,10 @@
   - firstname: ["Ronny"]
     url: https://ronnybergmann.net
 
+"goodman":
+  - firstname: ["Jacob"]
+    url: https://www.ntnu.edu/employees/jacob.goodman
+
 "herzog":
   - firstname: ["Roland"]
     url: https://scoop.iwr.uni-heidelberg.de/team/rherzog
