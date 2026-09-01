@@ -1,6 +1,14 @@
 {
   "work": [
     {
+      "name": "Simula Research Laboratory",
+      "position": "Postdoctoral Fellow",
+      "location": "Oslo, Norway",
+      "url": "https://www.simula.no",
+      "startDate": "2026-09-01",
+      "summary": "Research in optimization for AI within the SURE-AI center."
+    },
+    {
       "name": "Norwegian University of Science and Technology",
       "position": "Researcher and teaching assistant",
       "location": "Trondheim, Norway",
