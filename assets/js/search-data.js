@@ -60,7 +60,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%61%6A%67.%6A%61%73%61@%6E%74%6E%75.%6E%6F", "_blank");
+          window.open("mailto:%68%61%6A%67@%73%69%6D%75%6C%61.%6E%6F", "_blank");
         },
       },{
         id: 'social-github',
@@ -109,7 +109,7 @@ ninja.data = [{
         title: 'Work',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.ntnu.edu/employees/hajg.jasa", "_blank");
+          window.open("https://www.simula.no/people/hajg", "_blank");
         },
       },{
         id: 'social-custom_social',
