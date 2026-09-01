@@ -28,6 +28,7 @@ latest_posts:
 ---
 
 I am a Postdoctoral Fellow at [Simula Research Laboratory](https://www.simula.no/) within the [SCAN](https://www.simula.no/research/research-areas/scientific-computing/numerical-analysis-and) department, working with [Thomas M. Surowiec](https://thomas-surowiec.github.io/) as part of the [SURE-AI](https://www.sure-ai.no/) national AI research center of Norway.
+
 I hold a Ph.D. in mathematics from the [Department of Mathematical Sciences](https://www.ntnu.edu/imf) at [NTNU](https://www.ntnu.no).
 My main doctoral research was devoted to developing, analyzing, and implementing algorithms for convex (and sometimes nonconvex) nonsmooth optimization problems on Riemannian manifolds under the supervision of Prof. [Ronny Bergmann](https://www.ronnybergmann.net).
-New topics I am starting to look into include geometric methods for integration, and variational analysis on Riemannian manifolds, especially in connection to Riemannian optimization currently.
+New topics I am looking into include large-scale optimization, geometric methods for integration, and variational analysis on Riemannian manifolds, especially in connection to Riemannian optimization currently.
