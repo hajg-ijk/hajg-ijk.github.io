@@ -2,6 +2,14 @@
   color: "#b31b1b"
   url: https://arxiv.org
 
+"IEEE Xplore":
+  color: "#00629b"
+  url: https://ieeexplore.ieee.org
+
+"JNSAO":
+  color: "#0066b2"
+  url: https://jnsao.episciences.org
+
 "Zenodo":
   color: "#0076df"
   url: https://zeondo.org

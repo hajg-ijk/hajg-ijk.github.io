@@ -293,8 +293,13 @@ scholar:
   details_dir: bibliography
   details_link: Details
 
+  type_names: { 
+    article: peer-reviewed,
+    online: preprints
+  }
+
   query: "@*"
-  group_by: year
+  group_by: type, year
   group_order: descending
 
 # Display different badges withs stats for your publications
